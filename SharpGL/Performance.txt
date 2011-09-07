@@ -1,0 +1,9 @@
+05 January 2003
+
+	WITH ERROR CHECKING
+	To first draw an empty scene, 343 milliseconds (GLUT).
+	To first draw a scene with a cube, 600 milliseconds.
+	
+	WITHOUT ERROR CHECKING
+	To draw a scene with a cube, 0-15 milliseconds.
+	To draw a particle system with 30000 particles, 140 milliseconds.
