@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SceneBuilder.ParticleSystemBuilderForm.resources
+obj\Debug\SceneBuilder.PointsBuilder.resources
+obj\Debug\SceneBuilder.PolygonBuilder.resources
+obj\Debug\SceneBuilder.SceneBuilderForm.resources
+obj\Debug\SceneBuilder.csproj.GenerateResource.Cache
+bin\Debug\SceneBuilder.exe
+bin\Debug\SceneBuilder.pdb
+bin\Debug\ColourComboBox.dll
+bin\Debug\Paneller.dll
+bin\Debug\SharpGL.dll
+bin\Debug\SharpGL.pdb
+obj\Debug\SceneBuilder.exe
+obj\Debug\SceneBuilder.pdb
