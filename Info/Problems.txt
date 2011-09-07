@@ -1,0 +1,8 @@
+Problems
+
+*	Example 6, the materials cause the render time to jump from 
+	30fps to 800fps.
+
+*	The properties set in the design view do not persist!
+
+*	Evaluators (and many other objects) are lit on the wrong side.

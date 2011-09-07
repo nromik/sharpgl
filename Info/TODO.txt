@@ -1,0 +1,36 @@
+What SharpGL Needs
+
+*	Bring in all the new functions and definitions from OpenGL 2.1 - shaders, new buffers etc.
+
+*	Update texture code so that resizing an image resises to a power of two found 
+	by getting the MSB of a number e.g 
+	00010110
+	   |
+	   Most Significant bit (8).
+	   
+	OpenGL 2.1 has no need for power of two textures.
+	   
+*	Change camera drawing code so a display list that draws a camera shape is executed
+	and the view volume is changed.
+	
+***	OpenGL should be able to return any attribute group with the CURRENT attribute
+	settings, this would make it easier to use, e.g 
+	
+	LightingAttributes light = gl.LightingAttributes;
+	light.enabled = false;
+	light.Set(gl);
+	...
+	light.Restore(gl);
+	
+	It would also allow for easier SharpForce specific attributes, e.g. 
+	void Set(OpenGL gl)
+	{
+		LightingAttributes previous  = gl.LightingAttributes;
+		...
+	}
+	void Restore(OpenGL gl)
+	{
+		previous.Set(gl);
+	}
+	
+	Without having to use the matrix stack.
