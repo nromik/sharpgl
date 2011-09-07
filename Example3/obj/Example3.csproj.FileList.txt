@@ -1,0 +1,11 @@
+bin\Debug\Crate.bmp
+bin\Debug\Example3.exe
+bin\Debug\Example3.pdb
+bin\Debug\SharpGL.dll
+bin\Debug\SharpGL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example3.FormExample3.resources
+obj\Debug\Example3.Properties.Resources.resources
+obj\Debug\Example3.csproj.GenerateResource.Cache
+obj\Debug\Example3.exe
+obj\Debug\Example3.pdb

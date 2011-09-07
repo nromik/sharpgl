@@ -1,0 +1,10 @@
+bin\Debug\Example5.exe
+bin\Debug\Example5.pdb
+bin\Debug\SharpGL.dll
+bin\Debug\SharpGL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example5.FormExample5.resources
+obj\Debug\Example5.Properties.Resources.resources
+obj\Debug\Example5.csproj.GenerateResource.Cache
+obj\Debug\Example5.exe
+obj\Debug\Example5.pdb
