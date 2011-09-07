@@ -1,0 +1,11 @@
+bin\Debug\SharpGL.dll
+bin\Debug\SharpGL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SharpGL.Controls.GLColourPicker.resources
+obj\Debug\SharpGL.Controls.VertexControl.resources
+obj\Debug\SharpGL.OpenGLControl.resources
+obj\Debug\SharpGL.SceneControl.resources
+obj\Debug\SharpGL.SceneGraph.Scene.resources
+obj\Debug\SharpGL.csproj.GenerateResource.Cache
+obj\Debug\SharpGL.dll
+obj\Debug\SharpGL.pdb

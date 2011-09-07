@@ -1,0 +1,9 @@
+MATERIALS
+
+	*	Materials are fully integrated into the Persistence Engine. Textures can be
+		loaded to and from bmp, png, gif, jpg and tif images.
+		Materials themselves can be saved as *.sfm (SharpFroce Materials) files, on
+		their own or as a collection.
+		
+	*	The MaterialListViewItem class allows you to insert materials into a list view,
+		automatically creating previews etc.
