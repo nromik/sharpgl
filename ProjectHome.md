@@ -1,0 +1,4 @@
+# SharpGL #
+SharpGL is a library that lets you use OpenGL in C# applications - allowing you to easily add rich 3D media to your C# applications. By adding an OpenGL Control or a Scene Graph Control to your Windows Form, you can render amazing 3D images.
+
+SharpGL provides you with two controls for designing forms. The OpenGLControl, which lets you do standard OpenGL drawing in a C# application, and the SceneControl, which does the same with added support for polygons/persistence/picking and more. The screenshot above shows the SceneControl in action, with the supplied 'SceneBuilder' application. The screenshot below shows some 'old fasioned' OpenGL drawing, with calls to 'glBegin' and 'glEnd' etc.
